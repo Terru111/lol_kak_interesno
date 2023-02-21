@@ -1,0 +1,68 @@
+body{
+    background: #FFDAB9;
+    
+}
+.lal a{
+    text-decoration: none;
+    color: chocolate;
+}
+.zag {
+    text-align: center;
+    color: darkgoldenrod;
+}
+.lol a{
+    text-decoration: none;
+    color: darkorange;
+}
+.lil{
+    color: fuchsia
+}
+li{
+    color:peru
+}
+.lol a:hover {
+    color: deeppink;
+    font-size: 20px;
+}
+.lol ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    color:crimson;
+}
+/*Прижатие футера*/
+* {
+margin: 0;
+padding: 0;
+}
+html, body {
+height: 100%;
+}
+.wrapper {
+display: flex;
+flex-direction: column;
+min-height: 100%;
+}
+.content {
+flex: 1 0 auto;
+}
+.footer {
+flex: 0 0 auto;
+}
+.loh a{
+    text-decoration: none;
+    color: darkorange;
+}
+.loh a:hover {
+    color: deeppink;
+    font-size: 20px;
+}
+.mem{
+    display: flex;
+    justify-content: center;
+
+}
